@@ -1,0 +1,4 @@
+object_detection_yolo/darknet
+object_detection_yolo/data
+object_detection_yolo/raw_data
+**/.DS_Store
